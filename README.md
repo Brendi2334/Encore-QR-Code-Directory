@@ -1,1 +1,1 @@
-# Encore-QR-Code-Directory
+# Encore QR Code Directory
