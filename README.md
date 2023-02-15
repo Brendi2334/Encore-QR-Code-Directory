@@ -1,2 +1,2 @@
-# Encore QR Code Directory
-This directory contains a list of manuals for Encore AV Technicians
+Encore Archive
+This respository contains files for Encore AV
